@@ -1,0 +1,26 @@
+High Level  REquirements:-
+
+Scientific calculators are planned with specific tasks such as integration, addition, multiplication, matrix and logarithms built in.
+ 
+Present scientific calculators commonly have more features than an everyday calculator. The feature set differs between manufacturers and models; however, the main features of a scientific calculator include:
+scientific notation
+floating point arithmetic
+logarithmic functions, using both base 10 and base e
+Antilogarithmic functions
+trigonometric functions
+exponential functions and roots beyond the square root
+access to constants such as pi (3.14 ) and e
+ Low Level Requirements:-
+ 
+ 
+In addition, high-end scientific calculators will include:
+hexadecimal, binary, and octal calculations, including basic Boolean Algebra
+complex numbers
+fractions
+Inverse
+statistics and probability calculations
+programmability
+equation solving ( two variables & three variables )
+calculus
+conversion of units
+physical constants
